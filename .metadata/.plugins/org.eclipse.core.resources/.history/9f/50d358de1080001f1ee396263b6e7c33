@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_19s48G_vEe-FBrBi8cylgw" id="_xeem0HD7Ee-b7PYlsQYI5Q" label="supplier_load" version="0.1" statusCode="" item="_19s48m_vEe-FBrBi8cylgw" displayName="supplier_load">
+    <author href="../../../talend.project#_j7nEcGm4Ee-hiK9JcafK9A"/>
+    <additionalProperties xmi:id="_192C4G_vEe-FBrBi8cylgw" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_192C4W_vEe-FBrBi8cylgw" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_192C4m_vEe-FBrBi8cylgw" key="created_date" value="2024-09-12T14:40:13.258+0300"/>
+    <additionalProperties xmi:id="_192C42_vEe-FBrBi8cylgw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_192C5G_vEe-FBrBi8cylgw" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_192C5W_vEe-FBrBi8cylgw" key="modified_date" value="2024-10-01T19:19:00.504+0300"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_xfU7YHD7Ee-b7PYlsQYI5Q" path="Harbour_Retail_Project/Staging_Jobs"/>
+  <TalendProperties:ProcessItem xmi:id="_19s48m_vEe-FBrBi8cylgw" property="_19s48G_vEe-FBrBi8cylgw" state="_xfU7YHD7Ee-b7PYlsQYI5Q">
+    <process href="supplier_load_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

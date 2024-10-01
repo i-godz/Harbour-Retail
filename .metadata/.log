@@ -1,0 +1,860 @@
+!SESSION 2024-10-01 18:32:45.522 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_EG
+Framework arguments:  -keyring /Users/godzilla/.eclipse_keyring -showlocation -talendReload false -talendRestart true
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/godzilla/.eclipse_keyring -showlocation -talendReload false -talendRestart true
+
+This is a continuation of log file /Users/godzilla/Desktop/Projects/Data Harbour Retail/.metadata/.bak_0.log
+Created Time: 2024-10-01 18:46:02.728
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:46:02.729
+!MESSAGE 2024-10-01 18:46:02,714 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:46:04.235
+!MESSAGE 2024-10-01 18:46:04,233 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:46:04.484
+!MESSAGE 2024-10-01 18:46:04,483 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3609
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:10.538
+!MESSAGE 2024-10-01 18:48:10,530 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:10.630
+!MESSAGE 2024-10-01 18:48:10,627 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:11.581
+!MESSAGE 2024-10-01 18:48:11,579 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:11.972
+!MESSAGE 2024-10-01 18:48:11,971 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:11.973
+!MESSAGE 2024-10-01 18:48:11,973 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:11.979
+!MESSAGE 2024-10-01 18:48:11,978 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:11.980
+!MESSAGE 2024-10-01 18:48:11,979 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:12.227
+!MESSAGE 2024-10-01 18:48:12,226 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:13.346
+!MESSAGE 2024-10-01 18:48:13,345 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:48:13.550
+!MESSAGE 2024-10-01 18:48:13,550 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3833
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:08.367
+!MESSAGE 2024-10-01 18:49:08,332 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:08.614
+!MESSAGE 2024-10-01 18:49:08,609 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:09.955
+!MESSAGE 2024-10-01 18:49:09,954 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:10.397
+!MESSAGE 2024-10-01 18:49:10,394 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:10.398
+!MESSAGE 2024-10-01 18:49:10,398 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:10.400
+!MESSAGE 2024-10-01 18:49:10,400 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:10.401
+!MESSAGE 2024-10-01 18:49:10,400 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:10.586
+!MESSAGE 2024-10-01 18:49:10,585 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:11.885
+!MESSAGE 2024-10-01 18:49:11,884 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:12.191
+!MESSAGE 2024-10-01 18:49:12,190 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3779
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:20.623
+!MESSAGE 2024-10-01 18:49:20,621 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:20.686
+!MESSAGE 2024-10-01 18:49:20,685 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:20.686
+!MESSAGE 2024-10-01 18:49:20,686 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:20.689
+!MESSAGE 2024-10-01 18:49:20,689 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:49:20.690
+!MESSAGE 2024-10-01 18:49:20,690 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:50:29.162
+!MESSAGE 2024-10-01 18:50:29,160 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:11.398
+!MESSAGE 2024-10-01 18:51:11,390 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:11.494
+!MESSAGE 2024-10-01 18:51:11,492 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:12.683
+!MESSAGE 2024-10-01 18:51:12,678 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:13.144
+!MESSAGE 2024-10-01 18:51:13,143 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:13.145
+!MESSAGE 2024-10-01 18:51:13,145 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:13.153
+!MESSAGE 2024-10-01 18:51:13,152 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:13.154
+!MESSAGE 2024-10-01 18:51:13,154 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:13.419
+!MESSAGE 2024-10-01 18:51:13,417 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:14.843
+!MESSAGE 2024-10-01 18:51:14,841 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:51:15.122
+!MESSAGE 2024-10-01 18:51:15,121 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=4037
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.287
+!MESSAGE 2024-10-01 18:52:08,285 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.295
+!MESSAGE 2024-10-01 18:52:08,294 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.539
+!MESSAGE 2024-10-01 18:52:08,539 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.639
+!MESSAGE 2024-10-01 18:52:08,639 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.644
+!MESSAGE 2024-10-01 18:52:08,644 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.651
+!MESSAGE 2024-10-01 18:52:08,651 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.652
+!MESSAGE 2024-10-01 18:52:08,652 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:08.763
+!MESSAGE 2024-10-01 18:52:08,760 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 0 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:10.086
+!MESSAGE 2024-10-01 18:52:10,083 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:10.554
+!MESSAGE 2024-10-01 18:52:10,552 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3592
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:57.116
+!MESSAGE 2024-10-01 18:52:57,107 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:57.211
+!MESSAGE 2024-10-01 18:52:57,208 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:57.885
+!MESSAGE 2024-10-01 18:52:57,883 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:58.219
+!MESSAGE 2024-10-01 18:52:58,218 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:58.220
+!MESSAGE 2024-10-01 18:52:58,220 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:58.228
+!MESSAGE 2024-10-01 18:52:58,227 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:58.228
+!MESSAGE 2024-10-01 18:52:58,228 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:52:58.486
+!MESSAGE 2024-10-01 18:52:58,485 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:53:00.185
+!MESSAGE 2024-10-01 18:53:00,184 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:53:00.454
+!MESSAGE 2024-10-01 18:53:00,453 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3491
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:01.276
+!MESSAGE 2024-10-01 18:56:01,255 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:01.523
+!MESSAGE 2024-10-01 18:56:01,519 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:02.682
+!MESSAGE 2024-10-01 18:56:02,681 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:03.004
+!MESSAGE 2024-10-01 18:56:03,004 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:03.005
+!MESSAGE 2024-10-01 18:56:03,005 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:03.009
+!MESSAGE 2024-10-01 18:56:03,009 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:03.009
+!MESSAGE 2024-10-01 18:56:03,009 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:03.218
+!MESSAGE 2024-10-01 18:56:03,217 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:04.381
+!MESSAGE 2024-10-01 18:56:04,380 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-01 18:56:04.516
+!MESSAGE 2024-10-01 18:56:04,508 ERROR org.talend.commons.exception.CommonExceptionHandler  - Job compile errors 
+At least job "Employee_SCD2" has a compile errors, please fix and export again.
+Error Line: 3318
+Detail Message: Emp_ID cannot be resolved or is not a field
+There may be some other errors caused by JVM compatibility. Make sure your JVM setup is similar to the studio.
+
+!STACK 0
+org.talend.designer.runprocess.ProcessorException: Job compile errors 
+At least job "Employee_SCD2" has a compile errors, please fix and export again.
+Error Line: 3318
+Detail Message: Emp_ID cannot be resolved or is not a field
+There may be some other errors caused by JVM compatibility. Make sure your JVM setup is similar to the studio.
+	at org.talend.designer.runprocess.JobErrorsChecker.checkLastGenerationHasCompilationError(JobErrorsChecker.java:359)
+	at org.talend.designer.runprocess.DefaultRunProcessService.checkLastGenerationHasCompilationError(DefaultRunProcessService.java:534)
+	at org.talend.designer.runprocess.RunProcessService.checkLastGenerationHasCompilationError(RunProcessService.java:318)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateBuildInfo(ProcessorUtilities.java:826)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:706)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:2029)
+	at org.talend.designer.runprocess.RunProcessContext$2.run(RunProcessContext.java:663)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:468)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:228)
+	at org.eclipse.ui.internal.progress.ProgressManager.run(ProgressManager.java:984)
+	at org.talend.designer.runprocess.RunProcessContext.exec(RunProcessContext.java:610)
+	at org.talend.designer.runprocess.ui.ProcessComposite.exec(ProcessComposite.java:1447)
+	at org.talend.designer.runprocess.ui.views.ProcessView$RunAction.run(ProcessView.java:736)
+	at org.talend.designer.runprocess.ui.actions.RunProcessAction.run(RunProcessAction.java:63)
+	at org.talend.designer.core.debug.JobLaunchConfigurationDelegate$1$1.run(JobLaunchConfigurationDelegate.java:98)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4179)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3839)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.talend.rcp.intro.Application.start(Application.java:303)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.282
+!MESSAGE 2024-10-01 18:56:17,279 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.291
+!MESSAGE 2024-10-01 18:56:17,291 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.445
+!MESSAGE 2024-10-01 18:56:17,443 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.515
+!MESSAGE 2024-10-01 18:56:17,515 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.518
+!MESSAGE 2024-10-01 18:56:17,517 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.520
+!MESSAGE 2024-10-01 18:56:17,520 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.521
+!MESSAGE 2024-10-01 18:56:17,521 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:17.654
+!MESSAGE 2024-10-01 18:56:17,653 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 0 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:56:18.383
+!MESSAGE 2024-10-01 18:56:18,383 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 4 0 2024-10-01 18:56:18.418
+!MESSAGE 2024-10-01 18:56:18,414 ERROR org.talend.commons.exception.CommonExceptionHandler  - Job compile errors 
+At least job "Employee_SCD2" has a compile errors, please fix and export again.
+Error Line: 3318
+Detail Message: Emp_ID cannot be resolved or is not a field
+There may be some other errors caused by JVM compatibility. Make sure your JVM setup is similar to the studio.
+
+!STACK 0
+org.talend.designer.runprocess.ProcessorException: Job compile errors 
+At least job "Employee_SCD2" has a compile errors, please fix and export again.
+Error Line: 3318
+Detail Message: Emp_ID cannot be resolved or is not a field
+There may be some other errors caused by JVM compatibility. Make sure your JVM setup is similar to the studio.
+	at org.talend.designer.runprocess.JobErrorsChecker.checkLastGenerationHasCompilationError(JobErrorsChecker.java:359)
+	at org.talend.designer.runprocess.DefaultRunProcessService.checkLastGenerationHasCompilationError(DefaultRunProcessService.java:534)
+	at org.talend.designer.runprocess.RunProcessService.checkLastGenerationHasCompilationError(RunProcessService.java:318)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateBuildInfo(ProcessorUtilities.java:826)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:1250)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:1006)
+	at org.talend.designer.runprocess.ProcessorUtilities.generateCode(ProcessorUtilities.java:2048)
+	at org.talend.designer.core.ui.AbstractMultiPageTalendEditor.codeSync(AbstractMultiPageTalendEditor.java:1460)
+	at org.talend.designer.core.ui.AbstractMultiPageTalendEditor.turnToCodePage(AbstractMultiPageTalendEditor.java:809)
+	at org.talend.designer.core.ui.AbstractMultiPageTalendEditor.pageChange(AbstractMultiPageTalendEditor.java:713)
+	at org.eclipse.ui.part.MultiPageEditorPart.lambda$1(MultiPageEditorPart.java:271)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4441)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3243)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1881)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:330)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4441)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4227)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3837)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.talend.rcp.intro.Application.start(Application.java:303)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:03.109
+!MESSAGE 2024-10-01 18:57:03,075 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:03.311
+!MESSAGE 2024-10-01 18:57:03,305 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:04.441
+!MESSAGE 2024-10-01 18:57:04,440 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:04.836
+!MESSAGE 2024-10-01 18:57:04,836 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:04.837
+!MESSAGE 2024-10-01 18:57:04,837 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:04.846
+!MESSAGE 2024-10-01 18:57:04,846 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:04.847
+!MESSAGE 2024-10-01 18:57:04,846 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:05.034
+!MESSAGE 2024-10-01 18:57:05,033 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 1 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:06.061
+!MESSAGE 2024-10-01 18:57:06,060 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:57:06.367
+!MESSAGE 2024-10-01 18:57:06,366 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3568
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.193
+!MESSAGE 2024-10-01 18:58:14,189 INFO  org.talend.designer.runprocess.maven.MavenJavaProcessor  - build, threadParam: -T 1C
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.208
+!MESSAGE 2024-10-01 18:58:14,207 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update started
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.454
+!MESSAGE 2024-10-01 18:58:14,453 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.615
+!MESSAGE 2024-10-01 18:58:14,614 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.617
+!MESSAGE 2024-10-01 18:58:14,615 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.620
+!MESSAGE 2024-10-01 18:58:14,619 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.620
+!MESSAGE 2024-10-01 18:58:14,620 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:14.722
+!MESSAGE 2024-10-01 18:58:14,721 INFO  org.eclipse.m2e.core.internal.project.ProjectConfigurationManager  - Update completed: 0 sec
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:15.833
+!MESSAGE 2024-10-01 18:58:15,832 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 18:58:16.165
+!MESSAGE 2024-10-01 18:58:16,164 INFO  org.talend.designer.core.runprocess.Processor  - Command line: java -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -Dtalend.component.manager.m2.repository=/Applications/Talend/configuration/.m2/repository -Dencryption.keys.file=/Applications/Talend/configuration/studio.keys -cp /Users/godzilla/Desktop/Projects/Data Harbour Retail/HARBOUR_RETAIL/poms/jobs/process/Harbour_Retail_Project/SCD/employee_scd2_0.1/target/classpath.jar: harbour_retail.employee_scd2_0_1.Employee_SCD2 --context=Default --stat_port=3853
+
+
+!ENTRY org.talend.platform.logging 0 0 2024-10-01 19:18:52.717
+!MESSAGE 2024-10-01 19:18:52,714 WARN  org.talend.commons.exception.CommonExceptionHandler  - Bad saving logic for Project
+
+!STACK 0
+java.lang.Exception: Bad saving logic for Project
+	at org.talend.core.repository.utils.XmiResourceManager.saveResource(XmiResourceManager.java:665)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory$2.run(LocalRepositoryFactory.java:1604)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.renameFolderExecute(LocalRepositoryFactory.java:1619)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.renameFolderForLocal(LocalRepositoryFactory.java:1515)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.renameFolder(LocalRepositoryFactory.java:1641)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.renameFolder(ProxyRepositoryFactory.java:752)
+	at org.talend.core.repository.ui.wizard.folder.FolderWizard.performFinish(FolderWizard.java:150)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:832)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4441)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4227)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3837)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.talend.core.repository.ui.actions.RenameFolderAction.openFolderWizard(RenameFolderAction.java:118)
+	at org.talend.core.repository.ui.actions.RenameFolderAction.doRun(RenameFolderAction.java:103)
+	at org.talend.repository.ui.actions.AContextualAction$2.run(AContextualAction.java:675)
+	at org.talend.repository.RepositoryWorkUnit.executeRun(RepositoryWorkUnit.java:103)
+	at org.talend.core.repository.model.AbstractRepositoryFactory.executeRepositoryWorkUnit(AbstractRepositoryFactory.java:259)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.executeRepositoryWorkUnit(LocalRepositoryFactory.java:3767)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.executeRepositoryWorkUnit(ProxyRepositoryFactory.java:2679)
+	at org.talend.repository.ui.actions.AContextualAction.run(AContextualAction.java:688)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4441)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4227)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3837)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.talend.rcp.intro.Application.start(Application.java:303)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.talend.platform.logging 0 0 2024-10-01 19:19:00.579
+!MESSAGE 2024-10-01 19:19:00,578 WARN  org.talend.commons.exception.CommonExceptionHandler  - Bad saving logic for Project
+
+!STACK 0
+java.lang.Exception: Bad saving logic for Project
+	at org.talend.core.repository.utils.XmiResourceManager.saveResource(XmiResourceManager.java:665)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory$2.run(LocalRepositoryFactory.java:1604)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.renameFolderExecute(LocalRepositoryFactory.java:1619)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.renameFolderForLocal(LocalRepositoryFactory.java:1515)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.renameFolder(LocalRepositoryFactory.java:1641)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.renameFolder(ProxyRepositoryFactory.java:752)
+	at org.talend.core.repository.ui.wizard.folder.FolderWizard.performFinish(FolderWizard.java:150)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:832)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:472)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4441)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4227)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3837)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.talend.core.repository.ui.actions.RenameFolderAction.openFolderWizard(RenameFolderAction.java:118)
+	at org.talend.core.repository.ui.actions.RenameFolderAction.doRun(RenameFolderAction.java:103)
+	at org.talend.repository.ui.actions.AContextualAction$2.run(AContextualAction.java:675)
+	at org.talend.repository.RepositoryWorkUnit.executeRun(RepositoryWorkUnit.java:103)
+	at org.talend.core.repository.model.AbstractRepositoryFactory.executeRepositoryWorkUnit(AbstractRepositoryFactory.java:259)
+	at org.talend.repository.localprovider.model.LocalRepositoryFactory.executeRepositoryWorkUnit(LocalRepositoryFactory.java:3767)
+	at org.talend.core.repository.model.ProxyRepositoryFactory.executeRepositoryWorkUnit(ProxyRepositoryFactory.java:2679)
+	at org.talend.repository.ui.actions.AContextualAction.run(AContextualAction.java:688)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4441)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1324)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4227)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3837)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.talend.rcp.intro.Application.start(Application.java:303)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:16.380
+!MESSAGE 2024-10-01 19:19:16,378 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:16.438
+!MESSAGE 2024-10-01 19:19:16,438 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_SALES_FACT_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:16.439
+!MESSAGE 2024-10-01 19:19:16,439 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_SALES_FACT_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:16.445
+!MESSAGE 2024-10-01 19:19:16,445 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_SALES_FACT_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:16.446
+!MESSAGE 2024-10-01 19:19:16,445 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_SALES_FACT_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:59.576
+!MESSAGE 2024-10-01 19:19:59,573 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:59.650
+!MESSAGE 2024-10-01 19:19:59,649 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:59.651
+!MESSAGE 2024-10-01 19:19:59,651 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:59.656
+!MESSAGE 2024-10-01 19:19:59,656 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:19:59.656
+!MESSAGE 2024-10-01 19:19:59,656 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:24:19.207
+!MESSAGE 2024-10-01 19:24:19,197 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:24:19.349
+!MESSAGE 2024-10-01 19:24:19,346 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_SUPPLIER_LOAD_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:24:19.350
+!MESSAGE 2024-10-01 19:24:19,350 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_SUPPLIER_LOAD_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:24:19.353
+!MESSAGE 2024-10-01 19:24:19,353 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_SUPPLIER_LOAD_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:24:19.354
+!MESSAGE 2024-10-01 19:24:19,354 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_SUPPLIER_LOAD_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:25:35.478
+!MESSAGE 2024-10-01 19:25:35,468 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:25:35.567
+!MESSAGE 2024-10-01 19:25:35,564 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_SALES_LOAD_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:25:35.568
+!MESSAGE 2024-10-01 19:25:35,568 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_SALES_LOAD_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:25:35.570
+!MESSAGE 2024-10-01 19:25:35,570 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_SALES_LOAD_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:25:35.571
+!MESSAGE 2024-10-01 19:25:35,570 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_SALES_LOAD_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:26:55.955
+!MESSAGE 2024-10-01 19:26:55,944 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:26:56.108
+!MESSAGE 2024-10-01 19:26:56,104 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_PRODUCT_LOAD_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:26:56.109
+!MESSAGE 2024-10-01 19:26:56,109 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_PRODUCT_LOAD_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:26:56.113
+!MESSAGE 2024-10-01 19:26:56,113 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_PRODUCT_LOAD_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:26:56.114
+!MESSAGE 2024-10-01 19:26:56,114 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_PRODUCT_LOAD_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:29:08.887
+!MESSAGE 2024-10-01 19:29:08,874 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:29:09.190
+!MESSAGE 2024-10-01 19:29:09,187 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:29:09.192
+!MESSAGE 2024-10-01 19:29:09,191 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:29:09.195
+!MESSAGE 2024-10-01 19:29:09,194 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 19:29:09.195
+!MESSAGE 2024-10-01 19:29:09,195 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/test/resources
+
+
+!ENTRY org.eclipse.core.filebuffers 4 0 2024-10-01 20:10:01.051
+!MESSAGE Exception when synchronizing
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.jface.text.IDocument.get()" because "this.fDocument" is null
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.handleFileContentChanged(ResourceTextFileBuffer.java:447)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$1.execute(ResourceFileBuffer.java:141)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer.resourceChanged(ResourceFileBuffer.java:186)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:381)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1503)
+	at org.eclipse.core.internal.resources.CharsetDeltaJob.run(CharsetDeltaJob.java:185)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.468
+!MESSAGE 2024-10-01 20:10:01,462 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.470
+!MESSAGE 2024-10-01 20:10:01,469 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_SALES_LOAD_0.1: org.example.harbour_retail.job:sales_load:0.1.0 with classifier  to /HARBOUR_RETAIL_SALES_LOAD_0.1/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.471
+!MESSAGE 2024-10-01 20:10:01,470 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_PRODUCT_LOAD_0.1: org.example.harbour_retail.job:product_load:0.1.0 with classifier  to /HARBOUR_RETAIL_PRODUCT_LOAD_0.1/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.471
+!MESSAGE 2024-10-01 20:10:01,471 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_SUPPLIER_LOAD_0.1: org.example.harbour_retail.job:supplier_load:0.1.0 with classifier  to /HARBOUR_RETAIL_SUPPLIER_LOAD_0.1/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.632
+!MESSAGE 2024-10-01 20:10:01,631 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_FILES_VALIDATION_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.634
+!MESSAGE 2024-10-01 20:10:01,634 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_FILES_VALIDATION_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.640
+!MESSAGE 2024-10-01 20:10:01,640 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_FILES_VALIDATION_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:10:01.640
+!MESSAGE 2024-10-01 20:10:01,640 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_FILES_VALIDATION_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:16.074
+!MESSAGE 2024-10-01 20:11:16,072 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:16.189
+!MESSAGE 2024-10-01 20:11:16,188 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:16.190
+!MESSAGE 2024-10-01 20:11:16,190 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:16.192
+!MESSAGE 2024-10-01 20:11:16,192 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:16.193
+!MESSAGE 2024-10-01 20:11:16,192 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_EMPLOYEE_SCD2_0.1/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:19.313
+!MESSAGE 2024-10-01 20:11:19,309 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/HARBOUR_RETAIL_ROUTINES: org.example.harbour_retail.code:routines:8.0.1 with classifier  to /HARBOUR_RETAIL_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:19.399
+!MESSAGE 2024-10-01 20:11:19,397 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:19.401
+!MESSAGE 2024-10-01 20:11:19,400 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:19.403
+!MESSAGE 2024-10-01 20:11:19,403 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2024-10-01 20:11:19.404
+!MESSAGE 2024-10-01 20:11:19,404 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /HARBOUR_RETAIL_STORE_SCD1_0.1/src/test/resources
+

@@ -1,0 +1,34 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row1.City.equals(row2.city)&#xA;&#xA;&#xA;? &quot;No Change in City&quot;&#xA;: &quot;Change in City&quot;">
+  <variables name="row1.Emp_ID" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.First_Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Surname" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Department" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Salary" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.Address" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.ZIP_Code" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.City" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Country" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.Employed_Since" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row1.Manager" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.emp_key" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.emp_id" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.first_name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.surname" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.department" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.salary" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.address" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.zip_code" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row2.city" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.country" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.employed_since" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row2.manager" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.start_date" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row2.end_date" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row2.active_flag" value="null" talendType="id_String" nullable="true"/>
+  <variables name="Relational.ISNULL(row1.Emp_ID) &#xA;? &quot;New Employee&quot;&#xA;: &quot;Old Employee&quot; " value="null" talendType="id_String"/>
+  <variables name="row2.salary.equals(row1.City) &#xA;? &quot;No Change in City&quot;&#xA;: &quot;Change in City&quot; " value="null" talendType="id_String"/>
+  <variables name="row2.city.equals(row1.City) &#xA;? &quot;No Change in City&quot;&#xA;: &quot;Change in City&quot; " value="null" talendType="id_String"/>
+  <variables name="Relational.ISNULL(row2.Emp_ID) &#xA;? &quot;New Employee&quot;&#xA;: &quot;Old Employee&quot; " value="null" talendType="id_String"/>
+  <variables name="Relational.ISNULL(row2.emp_id) &#xA;? &quot;New Employee&quot;&#xA;: &quot;Old Employee&quot; " value="null" talendType="id_String"/>
+</expression:EMFExpression>
