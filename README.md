@@ -63,7 +63,7 @@ The project employs a star schema design to facilitate efficient data analysis. 
 ### 2- Staging/Child Jobs
 #### 2.1- Employee 
 <p align="center">
-  <img src="https://i.imgur.com/h6rMash.png" />
+  <img src="https://imgur.com/XCOXEyU.png" />
 </p>
 
 #### 2.2- Product 
