@@ -1,4 +1,4 @@
-# Harbour Retail Datawarehouse
+# Harbour Retail Data Warehouse
 
 The DataHarbor Organization, a fictional company, aims to enable data-driven decision-making in their retail domain by implementing a comprehensive data integration and analysis solution. The primary focus is to embrace a data-driven approach to steer their business forward, bridging the gap between raw data and actionable insights.
 
