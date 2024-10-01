@@ -98,11 +98,13 @@ The project employs a star schema design to facilitate efficient data analysis. 
 
 #### 3.2- Type-2
 <p align="center">
-  <img src="https://imgur.com/undefined.png" />
+  <img src="https://imgur.com/RBC8hpG.png" />
 </p>
 
-
-
+### 4- Fact Job
+<p align="center">
+  <img src="https://imgur.com/F4LL6uG.png" />
+</p>
 
 
 
