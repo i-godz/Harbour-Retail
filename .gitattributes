@@ -3,3 +3,4 @@ HARBOUR_RETAIL filter=lfs diff=lfs merge=lfs -text
 Input[[:space:]]Data filter=lfs diff=lfs merge=lfs -text
 SQL[[:space:]]Scripts filter=lfs diff=lfs merge=lfs -text
 temp filter=lfs diff=lfs merge=lfs -text
+temp/testio.data filter=lfs diff=lfs merge=lfs -text
