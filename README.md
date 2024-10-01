@@ -53,3 +53,64 @@ The project employs a star schema design to facilitate efficient data analysis. 
   <img src="https://drive.google.com/uc?export=view&id=1O18hhfO9Ezc4i6kp3K4VK5vE2gf8fmTo" />
 </p>
 
+## Data Flow
+
+### 1- Master Job 
+<p align="center">
+  <img src="https://i.imgur.com/h6rMash.png" />
+</p>
+
+### 2- Staging/Child Jobs
+#### 2.1- Employee 
+<p align="center">
+  <img src="https://i.imgur.com/h6rMash.png" />
+</p>
+
+#### 2.2- Product 
+<p align="center">
+  <img src="https://i.imgur.com/Q0Iyrec.png" />
+</p>
+
+#### 2.3- Sales 
+<p align="center">
+  <img src="https://imgur.com/3gwIjFe.png" />
+</p>
+
+
+#### 2.4- Store 
+<p align="center">
+  <img src="https://imgur.com/uI7g2xX.png" />
+</p>
+
+
+#### 2.5- Supplier 
+<p align="center">
+  <img src="https://imgur.com/aKHYZeK.png" />
+</p>
+
+
+### 3- SCD's Jobs
+
+#### 3.1- Type-1
+<p align="center">
+  <img src="https://imgur.com/RegCKOt.png" />
+</p>
+
+#### 3.2- Type-2
+<p align="center">
+  <img src="https://imgur.com/undefined.png" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
