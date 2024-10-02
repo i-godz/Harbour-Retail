@@ -22,7 +22,7 @@ The repository is structured as follows:
 The architecture and design of the DATAHARBOR Retail Data Warehouse Integration Project encompass a systematic blueprint that is specific to business requirements and facilitates efficient data processing, storage, and analysis.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1O49esErzIDbnVSrYyZhbt0TN63GscoX2" />
+  <img src="https://imgur.com/r2ngu21.png" />
 </p>
 
 
